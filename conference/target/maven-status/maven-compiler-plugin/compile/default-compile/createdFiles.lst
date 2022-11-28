@@ -1,0 +1,6 @@
+com/pluralsight/repository/HibernateSpeakerRepositoryImpl.class
+com/pluralsight/model/Speaker.class
+Application.class
+com/pluralsight/service/SpeakerService.class
+com/pluralsight/repository/SpeakerRepository.class
+com/pluralsight/service/SpeakerServiceImpl.class
